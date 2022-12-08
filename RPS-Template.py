@@ -67,3 +67,4 @@ confidence_score = prediction[0][index]
 
 print('Class:', class_name, end='')
 print('Confidence score:', confidence_score)
+

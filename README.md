@@ -1,2 +1,4 @@
 # Computer Vision RPS
 # Milestone 2:
+I have managed to create the keras_model file through teachable machine. I experienced a few difficulties when trying to trying to make sure that rock, paper, scissors and nothing would be distinguishable when trialling out the different variables. It took a lot of time with trial and error to make sure that there was no characteristic in each of the variables that were making the programme incorrectly recognise which variable I was trying to display. The files created have been pushed to git hub and the variables are now all very disguishable with on average 100 percent recognition of each othe images displayed. 
+When I downloaded the keras files I also copied the code suggested in order to support myself when creating the programme in visual space code as I have not completed a task involving machone learning before. 
